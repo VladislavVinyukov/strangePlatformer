@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NonCollusion
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Bullet
+  - Bonus
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Border
+    uniqueID: 777347599
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ObjectsLvl3
+    uniqueID: 462786417
+    locked: 0
+  - name: ObjectsLvl2
+    uniqueID: 3715250157
+    locked: 0
+  - name: ObjectsLvl1
+    uniqueID: 1128610915
+    locked: 0
+  - name: Player
+    uniqueID: 512198633
+    locked: 0
